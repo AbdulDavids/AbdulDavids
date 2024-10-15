@@ -29,6 +29,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [About Ugh Standup](https://abduldavids.co.za/posts/ughstandup/)
+- [My experience as a Technical Writing Intern at Ritza](https://abduldavids.co.za/posts/ritza/)
+- [All aboard the AI hype train!](https://abduldavids.co.za/posts/artificial-intelligence/)
+- [Ferrari mess-ups 2024](https://abduldavids.co.za/posts/ferrari-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
