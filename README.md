@@ -27,7 +27,7 @@
 
     and I've made a [Twitter Bot that posts cats](https://x.com/catsofcapetown), it has a cool [companion website](https://cats.abduldavids.co.za) too
 
-### Blogs posts
+### Blogs post
 <!-- BLOG-POST-LIST:START -->
 - [About Ugh Standup](https://abduldavids.co.za/posts/ughstandup/)
 - [My experience as a Technical Writing Intern at Ritza](https://abduldavids.co.za/posts/ritza/)
