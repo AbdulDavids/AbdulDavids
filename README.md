@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/abdulbdavids" target="blank"><img src="https://img.shields.io/twitter/follow/abdulbdavids?logo=twitter&style=for-the-badge" alt="abdulbdavids" /></a> </p>
 
-- 🔭 I’m currently working at [Ritza](ritza.co)
+- 🔭 I’m currently working at [Ritza](https://ritza.co/)
 
 - 🌱 I’m currently learning **Vue and FastAPI**
 
@@ -17,15 +17,15 @@
 
 - 📫 How to reach me **abdulbaaridavids04-at-gmail-dot-com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/19UK7K5UlrhqD3JFsvAFf6Hc8tTJZOgvVmnj0lzyC7Zo/edit?usp=sharing](https://docs.google.com/document/d/19UK7K5UlrhqD3JFsvAFf6Hc8tTJZOgvVmnj0lzyC7Zo/edit?usp=sharing)
+- 📄 Know about my experiences: [Resume](https://docs.google.com/document/d/19UK7K5UlrhqD3JFsvAFf6Hc8tTJZOgvVmnj0lzyC7Zo/edit?usp=sharing)
 
 - 🙄 Some bad startup ideas I've had [https://abduldavids.co.za/startup-ideas/](https://abduldavids.co.za/startup-ideas/)
 
-    also check out this it's my fav project: [Bulletin](BulletinBoard.pages.dev)
+    also check out this it's my fav project: [Bulletin](https://BulletinBoard.pages.dev)
 
     and this: [F1Telemetry](https://abduldavids.github.io/telemetry/) _only works during race weekend tho_
 
-    and I've made a [Twitter Bot that posts cats](x.com/catsofcapetown), it has a cool [companion website](cats.abduldavids.co.za) too
+    and I've made a [Twitter Bot that posts cats](https://x.com/catsofcapetown), it has a cool [companion website](https://cats.abduldavids.co.za) too
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
