@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking to **learn new things**
 
-- 📝 I _occansionally_ write articles on [https://abduldavids.co.za/](https://abduldavids.co.za/)
+- 📝 I _occasionally_ write articles on [https://abduldavids.co.za/](https://abduldavids.co.za/)
 
 - 💬 Ask me about **anything AI, data analytics or Formula One (all 3!)**
 
