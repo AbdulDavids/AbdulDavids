@@ -21,7 +21,7 @@
 
 - 🙄 Some bad startup ideas I've had [https://abduldavids.co.za/startup-ideas/](https://abduldavids.co.za/startup-ideas/)
 
-    also check out this it's my fav project: [Bulletin](https://BulletinBoard.pages.dev)
+    also check out this it's my fav project: [HNMenu](https://hnmenu.abduldavids.co.za)
 
     and this: [F1Telemetry](https://abduldavids.github.io/telemetry/) _only works during race weekend tho_
 
