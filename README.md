@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working at [Ritza](https://ritza.co/)
 
-- 🌱 I’m currently learning **Vue and FastAPI**
+- 🌱 I’m currently learning **Swift and GenAI things on Mac's**
 
 - 🤝 I’m looking to **learn new things**
 
