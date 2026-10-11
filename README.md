@@ -29,8 +29,8 @@
 
 ### Blogs post
 <!-- BLOG-POST-LIST:START -->
-- [Taking a look back at 2025](https://abduldavids.co.za/posts/2025-retrospective/)
-- [computer science in the intelligence age](https://abduldavids.co.za/posts/ai-age/)
+- [Treat your prompts like code](https://abduldavids.co.za/posts/on-prompting/)
+- [Computer science in the intelligence age](https://abduldavids.co.za/posts/ai-age/)
 - [About Ugh Standup](https://abduldavids.co.za/posts/ughstandup/)
 - [My experience as a Technical Writing Intern at Ritza](https://abduldavids.co.za/posts/ritza/)
 - [All aboard the AI hype train!](https://abduldavids.co.za/posts/artificial-intelligence/)
