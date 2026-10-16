@@ -29,11 +29,11 @@
 
 ### Blogs post
 <!-- BLOG-POST-LIST:START -->
+- [AI in the solution, not just the SDLC](https://abduldavids.co.za/posts/ai-solution-vs-sdlc/)
 - [Treat your prompts like code](https://abduldavids.co.za/posts/on-prompting/)
 - [Computer science in the intelligence age](https://abduldavids.co.za/posts/ai-age/)
 - [About Ugh Standup](https://abduldavids.co.za/posts/ughstandup/)
 - [My experience as a Technical Writing Intern at Ritza](https://abduldavids.co.za/posts/ritza/)
-- [All aboard the AI hype train!](https://abduldavids.co.za/posts/artificial-intelligence/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
