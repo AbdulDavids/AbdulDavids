@@ -29,11 +29,11 @@
 
 ### Blogs post
 <!-- BLOG-POST-LIST:START -->
+- [Ten Laws of AI-Augmented Engineering](https://abduldavids.co.za/posts/ten-ai-rules/)
 - [AI in the solution, not just the SDLC](https://abduldavids.co.za/posts/ai-solution-vs-sdlc/)
 - [Treat your prompts like code](https://abduldavids.co.za/posts/on-prompting/)
 - [Computer science in the intelligence age](https://abduldavids.co.za/posts/ai-age/)
 - [All aboard the AI hype train!](https://abduldavids.co.za/posts/artificial-intelligence/)
-- [Ferrari mess-ups 2024](https://abduldavids.co.za/posts/ferrari-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
